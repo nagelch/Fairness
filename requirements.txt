@@ -3,3 +3,4 @@ matplotlib
 aif360
 fairlearn
 scikit-learn
+xlrd
